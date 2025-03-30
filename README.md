@@ -4,15 +4,13 @@
 - 🙌 Software mentor for Eagan High School Robotics, FRC [@Team 2220](https://github.com/Team2220)
 - 👀 I’m interested in robotics, AI, physics simulations, computer graphics, and app development
 - 🌱 I’m currently learning:
-  - Go
-  - Apache Kafka
-  - GCP
+  - Kotlin
   - OpenCV
 - 🔬 I already know:
-  - Languages: C#, Rust, TypeScript, Python, Java, C/C++, Swift
+  - Languages: Go, Kotlin, C#, Rust, TypeScript, Python, Java, C/C++, Swift
   - Technologies: .NET, Node.js, React, Svelte, PyTorch, Docker
-  - Databases: Redis, MongoDB, Microsoft SQL Server, PostgreSQL
-  - Other: Git, Azure DevOps, NUnit, CI/CD
+  - Databases: PostgreSQL, Redis, MongoDB, Microsoft SQL Server
+  - Other: Git, GCP, Azure DevOps, NUnit, CI/CD
 - 📫 How to reach me: r@holmdahl.io
 - 🌐 [Portfolio](https://holmdahl.io)
 
