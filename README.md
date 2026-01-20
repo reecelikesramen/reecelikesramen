@@ -9,6 +9,7 @@
   - Adding 3D physics to FRC sims: [maple-sim](https://github.com/EaganRobotics/maple-sim/tree/feature/3d-physics)
   - High performance FRC visualizer: [FRC visualizer](https://github.com/reecelikesramen/frc-visualizer)
   - Alpine.js component system: [repo](https://github.com/reecelikesramen/alpine-components) & [website](https://alpinecomponents.dev/)
+  - Server-authoritative multiplayer in Godot: [battle-royale](https://github.com/reecelikesramen/battle-royale)
 - 🔬 Stuff I know:
   - Languages: Kotlin, Python, C#, Rust, TypeScript, Java, C/++, Swift
   - Technologies: .NET, Node.js, React, Svelte, Vue, Alpine.js, Blazor, PyTorch, Docker
