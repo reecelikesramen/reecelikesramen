@@ -5,14 +5,14 @@
 - 🙌 Software coach for Eagan High School Robotics, [@Eagan Robotics](https://github.com/EaganRobotics) (FRC 2220)
 - 👀 I’m interested in robotics, AI, physics simulations, computer graphics, and app development
 - 🌱 I’m currently working on:
-  - Python interactive server framework: [PyHTML](https://github.com/reecelikesramen/pyhtml)
-  - Adding 3D physics to FRC sims: [maple-sim](https://github.com/EaganRobotics/maple-sim/tree/feature/3d-physics)
-  - High performance FRC visualizer: [FRC visualizer](https://github.com/reecelikesramen/frc-visualizer)
+  - Python interactive server framework: [pywire](https://github.com/pywire/pywire)
+  - 3D physics sims for FRC: [maple-sim](https://github.com/EaganRobotics/maple-sim/tree/feature/3d-physics)
+  - High-performance FRC visualizer: [FRC visualizer](https://github.com/reecelikesramen/frc-visualizer)
   - Alpine.js component system: [repo](https://github.com/reecelikesramen/alpine-components) & [website](https://alpinecomponents.dev/)
-  - Server-authoritative multiplayer in Godot: [battle-royale](https://github.com/reecelikesramen/battle-royale)
+  - Server-authoritative multiplayer with Rust in Godot: [battle-royale](https://github.com/reecelikesramen/battle-royale)
 - 🔬 Stuff I know:
   - Languages: Kotlin, Python, C#, Rust, TypeScript, Java, C/++, Swift
-  - Technologies: .NET, Node.js, React, Svelte, Vue, Alpine.js, Blazor, PyTorch, Docker
+  - Technologies: .NET, Node.js, FastAPI, React, Svelte, Vue, Alpine.js, Blazor, PyTorch, Docker
   - Databases: PostgreSQL, Microsoft SQL Server, MongoDB
   - Other: GCP, Azure, CI/CD, Godot, OpenCV
 - 📫 How to reach me: r@holmdahl.io
