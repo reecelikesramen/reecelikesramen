@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @reecelikesramen (Reece Holmdahl)
 - 🏠 Santa Fe, NM
 - 🏫 B.Sc Computer Science and Minor in Mathematics from University of Minnesota
-- 💼 Software Engineer for 2 years
+- 💼 Lead Software Engineer at CalcAir Employee Benefit Systems
 - 🙌 Software coach for Eagan High School Robotics, [@Eagan Robotics](https://github.com/EaganRobotics) (FRC 2220)
 - 👀 I’m interested in robotics, AI, physics simulations, computer graphics, and app development
 - 🌱 I’m currently working on:
-  - Python interactive server framework: [pywire](https://github.com/pywire/pywire)
+  - Python interactive server web framework: [pywire](https://github.com/pywire/pywire)
   - 3D physics sims for FRC: [maple-sim](https://github.com/EaganRobotics/maple-sim/tree/feature/3d-physics)
   - High-performance FRC visualizer: [FRC visualizer](https://github.com/reecelikesramen/frc-visualizer)
   - Alpine.js component system: [repo](https://github.com/reecelikesramen/alpine-components) & [website](https://alpinecomponents.dev/)
